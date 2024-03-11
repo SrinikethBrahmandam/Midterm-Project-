@@ -9,4 +9,6 @@ Please go throught the guidelines for execution
 5)Give the support and confidence percentage.
 6)There you go, The code will execute all three algorithms and provide frequent patterns and rules for the given input.
 
+And also go throught the Midterm_Report to know more about this project.
+
 Thank you!!!
